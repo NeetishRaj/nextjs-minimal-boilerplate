@@ -1,0 +1,1 @@
+# nextjs-minimal-boilerplate
